@@ -1,0 +1,4 @@
+idevent	speaker	text	nextevent	LastEventInSequence	imageAsset	audioAsset
+0	Player	It's time to go! Watch out for grey things	1	N	PlayerDialogueImage	randomsound1	$%
+1	Player	Bye!	2	Y	PlayerDialogueImageMove	randomsound2	$%
+2	Player	Gameover	Y	PlayerDialogueImageTired	randomsound3	$%
